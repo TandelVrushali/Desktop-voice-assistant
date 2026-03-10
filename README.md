@@ -1,7 +1,7 @@
 # 🎤 Desktop Voice Assistant in Python
 
 A voice-activated desktop assistant built with Python that responds to 15+ voice commands.  
-📖 [Read the full tutorial on Medium]()
+📖 [Read the full tutorial on Medium](https://medium.com/@tandelvrushali1607/desktop-voice-assistant-in-python-b7d100446a88)
 
 ## ✨ Features
 | Command | Action |
